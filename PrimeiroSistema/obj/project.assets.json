@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mefma\\source\\repos\\PrimeiroSistema\\PrimeiroSistema\\PrimeiroSistema.csproj",
+      "projectUniqueName": "C:\\Users\\mefma\\Source\\Repos\\SistemaCSharp_Vetor_Lista\\PrimeiroSistema\\PrimeiroSistema.csproj",
       "projectName": "PrimeiroSistema",
-      "projectPath": "C:\\Users\\mefma\\source\\repos\\PrimeiroSistema\\PrimeiroSistema\\PrimeiroSistema.csproj",
+      "projectPath": "C:\\Users\\mefma\\Source\\Repos\\SistemaCSharp_Vetor_Lista\\PrimeiroSistema\\PrimeiroSistema.csproj",
       "packagesPath": "C:\\Users\\mefma\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mefma\\source\\repos\\PrimeiroSistema\\PrimeiroSistema\\obj\\",
+      "outputPath": "C:\\Users\\mefma\\Source\\Repos\\SistemaCSharp_Vetor_Lista\\PrimeiroSistema\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -67,7 +67,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.207\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.208\\RuntimeIdentifierGraph.json"
       }
     }
   }

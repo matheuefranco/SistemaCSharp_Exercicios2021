@@ -27,8 +27,9 @@ namespace PrimeiroSistema
             string usuario = txtUsuario.Text;
             if (usuario == "adm") { 
                 MessageBox.Show("Seja bem vindo " + usuario + "!");
-                FrmSistema s = new FrmSistema();
-                s.Show();
+                //FrmSistema s = new FrmSistema();
+                FrmVetor f = new FrmVetor();
+                f.Show();
             }// fim if
             else
                 MessageBox.Show("Acesso negado :(");
